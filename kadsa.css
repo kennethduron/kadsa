@@ -42,3 +42,7 @@ footer img {
     width: 50px;
     border-radius: 13px;
 }
+
+footer p {
+    font-size: 12px;
+}
